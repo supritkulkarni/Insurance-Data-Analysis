@@ -26,5 +26,3 @@ smoker	The person is a smoker or not
 region	Specifies the region (northeast, northwest, southeast, southwest)
 charges	the amount of insurance
 
-<img width="468" height="631" alt="image" src="https://github.com/user-attachments/assets/b9f55055-1eea-43df-96cd-070034f00254" />
-
